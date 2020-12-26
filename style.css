@@ -38,7 +38,7 @@ body {
 }
 
 .cover-container {
-  max-width: 42em;
+  max-width: 50em;
 }
 
 /*
@@ -50,6 +50,7 @@ body {
 
 .masthead-brand {
   margin-bottom: 0;
+  color: #04477B;
 }
 
 .nav-masthead .nav-link {
@@ -88,6 +89,7 @@ body {
  */
 .cover {
   padding: 0 1.5rem;
+  color: #04477B;
 }
 .cover .btn-lg {
   padding: 0.75rem 1.25rem;
