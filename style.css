@@ -9,6 +9,19 @@ a:hover {
   color: #5DEAD2;
 }
 
+.bg-color-card {
+  background-color: #5DEAD2;
+}
+
+.border-color-d-blue {
+  border-color: #04477B;
+  border-radius: .25rem;
+}
+
+.bg-color-d-blue {
+  background-color: #04477B ;
+}
+
 /* Custom default button */
 .btn-secondary,
 .btn-secondary:hover,
@@ -26,7 +39,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  /* background-color: #333; */
 }
 
 body {
