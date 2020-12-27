@@ -3,6 +3,10 @@
  */
 
 /* Links */
+
+main {
+  display: flex;
+}
 a,
 a:focus,
 a:hover {
@@ -132,3 +136,14 @@ body {
 span {
   font-size: xx-small;
 }
+
+@media only screen and (min-width:150px) and (max-width:700px) {
+
+  .cover{
+    padding: 0;
+  } 
+
+  main {
+    display: block;
+  }
+  }
