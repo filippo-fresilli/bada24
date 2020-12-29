@@ -133,6 +133,18 @@ body {
   background-size: cover;
 }
 
+.bg-image-2 {
+  /* image taken from Unsplash */
+  background-image: url("assets/images/bg-bada24.svg");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: left;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+}
+
 span {
   font-size: xx-small;
 }
@@ -145,5 +157,17 @@ span {
 
   main {
     display: block;
+  }
+
+  .bg-image-2 {
+    /* image taken from Unsplash */
+    background-image: url("assets/images/bg-bada24.svg");
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
   }
   }
