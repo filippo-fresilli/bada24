@@ -46,6 +46,17 @@ body {
   /* background-color: #333; */
 }
 
+img {
+  width: 60%;
+  height: auto;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
 body {
   display: -ms-flexbox;
   display: flex;
@@ -55,7 +66,7 @@ body {
 }
 
 .cover-container {
-  max-width: 50em;
+  max-width: 55em;
 }
 
 /*
@@ -147,14 +158,14 @@ body {
 
 .bg-image-40 {
   /* image taken from Unsplash */
-  background-image: url("assets/images/bg-bada24_40.svg");
+  background-image: url("assets/images/old_dancing_tinified.jpg");
   /* Full height */
   height: 100%;
 
   /* Center and scale the image nicely */
-  background-position: left;
+  background-position: center;
   background-repeat: no-repeat;
-  /* background-size: cover; */
+  background-size: cover;
 }
 
 span {
@@ -162,6 +173,12 @@ span {
 }
 
 @media only screen and (min-width:150px) and (max-width:700px) {
+
+  html,
+body {
+  height: auto;
+  /* background-color: #333; */
+}
 
   .cover{
     padding: 0;
@@ -173,13 +190,25 @@ span {
 
   .bg-image-40 {
     /* image taken from Unsplash */
-    background-image: url("assets/images/bg-bada24_40.svg");
+    background-image: url("assets/images/old_dancing_tinified.jpg");
     /* Full height */
     height: 100%;
   
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
-    /* background-size: cover; */
+    background-size: cover;
   }
+
+  img {
+    width: 100%;
+    height: auto;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  
   }
