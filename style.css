@@ -158,7 +158,7 @@ body {
 
 .bg-image-40 {
   /* image taken from Unsplash */
-  background-image: url("assets/images/old_dancing_tinified.jpg");
+  background-image: url("assets/images/old_dancing_less_tiny.png");
   /* Full height */
   height: 100%;
 
@@ -190,7 +190,7 @@ body {
 
   .bg-image-40 {
     /* image taken from Unsplash */
-    background-image: url("assets/images/old_dancing_tinified.jpg");
+    background-image: url("assets/images/old_dancing_less_tiny.png");
     /* Full height */
     height: 100%;
   
