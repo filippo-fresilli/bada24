@@ -1,3 +1,3 @@
 # bada24
 
-Servizio B2B2C per la ricerca e la gestione dei badanti. 
+Bada24 é l'applicazione gestionale per facilitare la collaborazione e il lavoro tra badanti e parenti degli anziani.
