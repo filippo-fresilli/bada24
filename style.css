@@ -18,12 +18,12 @@ a:hover {
 }
 
 .border-color-d-blue {
-  border-color: #04477B;
+  border-color: #204EB2;
   border-radius: .25rem;
 }
 
 .bg-color-d-blue {
-  background-color: #04477B ;
+  background-color: #204EB2 ;
 }
 
 /* Custom default button */
@@ -60,7 +60,7 @@ img {
 body {
   display: -ms-flexbox;
   display: flex;
-  color: #04477B;
+  color: #204EB2;
   /* text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5); */
   /* box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.5); */
 }
